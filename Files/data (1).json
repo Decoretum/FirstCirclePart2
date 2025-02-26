@@ -1,0 +1,172 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "The Maluku islands (informally known as the Spice Islands) belong to which country?",
+    "correct_answer": "Indonesia",
+    "incorrect_answers": [
+      "Chile",
+      "New Zealand",
+      "Fiji"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Video Games",
+    "question": "What is the name the location-based augmented reality game developed by Niantic before Pok&eacute;mon GO?",
+    "correct_answer": "Ingress",
+    "incorrect_answers": [
+      "Aggress",
+      "Regress",
+      "Digress"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "In Greek Mythology, who killed Achilles?",
+    "correct_answer": "Paris",
+    "incorrect_answers": [
+      "Hector",
+      "Helen",
+      "Pericles"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Politics",
+    "question": "Who succeeded Joseph Stalin as General Secretary of the Communist Party of the Soviet Union?",
+    "correct_answer": "Nikita Khrushchev",
+    "incorrect_answers": [
+      "Leonid Brezhnev",
+      "Mikhail Gorbachev",
+      "Boris Yeltsin"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "The Great Wall of China is visible from the moon.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Entertainment: Video Games",
+    "question": "In the game &quot;Until Dawn&quot; Emily is the only playable character who can be killed by another playable character directly.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Entertainment: Video Games",
+    "question": "Tony Hawk&#039;s Pro Skater was released in 1999.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "What animation studio produced &quot;Gurren Lagann&quot;?",
+    "correct_answer": "Gainax",
+    "incorrect_answers": [
+      "Kyoto Animation",
+      "Pierrot",
+      "A-1 Pictures"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "The Los Angeles Dodgers were originally from what U.S. city?",
+    "correct_answer": "Brooklyn",
+    "incorrect_answers": [
+      "Las Vegas",
+      "Boston",
+      "Seattle"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "The anime &quot;Lucky Star&quot; follows the story of one girl who is unaware she is God.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "What colour hair does the main character of the Yu-Gi-Oh! original anime series have?",
+    "correct_answer": "Red, black and yellow",
+    "incorrect_answers": [
+      "Red, yellow and green",
+      "Red, black and green",
+      "Red, purple and blue"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science &amp; Nature",
+    "question": "An organism described as &quot;heliotropic&quot; has a tendancy to move towards which of these things?",
+    "correct_answer": "Light",
+    "incorrect_answers": [
+      "Water",
+      "Trees",
+      "Pollen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Where would you find the &quot;Spanish Steps&quot;?",
+    "correct_answer": "Rome, Italy",
+    "incorrect_answers": [
+      "Barcelona, Spain",
+      "Berlin, Germany",
+      "London, England"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "In Game of Thrones, what is Littlefinger&#039;s real name?",
+    "correct_answer": "Petyr Baelish",
+    "incorrect_answers": [
+      "Podrick Payne",
+      "Lancel Lannister",
+      "Torrhen Karstark"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science &amp; Nature",
+    "question": "Sugar contains fat.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  }
+]

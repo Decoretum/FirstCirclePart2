@@ -1,0 +1,16 @@
+type,difficulty,category,question,correct_answer,incorrect_answers
+multiple,hard,Geography,The Maluku islands (informally known as the Spice Islands) belong to which country?,Indonesia,Chile,New Zealand,Fiji
+multiple,medium,Entertainment: Video Games,What is the name the location-based augmented reality game developed by Niantic before Pok&eacute;mon GO?,Ingress,Aggress,Regress,Digress
+multiple,medium,Mythology,In Greek Mythology, who killed Achilles?,Paris,Hector,Helen,Pericles
+multiple,medium,Politics,Who succeeded Joseph Stalin as General Secretary of the Communist Party of the Soviet Union?,Nikita Khrushchev,Leonid Brezhnev,Mikhail Gorbachev,Boris Yeltsin
+boolean,easy,General Knowledge,The Great Wall of China is visible from the moon.,False,True
+boolean,medium,Entertainment: Video Games,In the game &quot;Until Dawn&quot; Emily is the only playable character who can be killed by another playable character directly.,True,False
+boolean,medium,Entertainment: Video Games,Tony Hawk&#039;s Pro Skater was released in 1999.,True,False
+multiple,easy,Entertainment: Japanese Anime &amp; Manga,What animation studio produced &quot;Gurren Lagann&quot;?,Gainax,Kyoto Animation,Pierrot,A-1 Pictures
+multiple,easy,Sports,The Los Angeles Dodgers were originally from what U.S. city?,Brooklyn,Las Vegas,Boston,Seattle
+boolean,easy,Entertainment: Japanese Anime &amp; Manga,The anime &quot;Lucky Star&quot; follows the story of one girl who is unaware she is God.,False,True
+multiple,medium,Entertainment: Japanese Anime &amp; Manga,What colour hair does the main character of the Yu-Gi-Oh! original anime series have?,Red, black and yellow,Red, yellow and green,Red, black and green,Red, purple and blue
+multiple,medium,Science &amp; Nature,An organism described as &quot;heliotropic&quot; has a tendancy to move towards which of these things?,Light,Water,Trees,Pollen
+multiple,easy,Geography,Where would you find the &quot;Spanish Steps&quot;?,Rome, Italy,Barcelona, Spain,Berlin, Germany,London, England
+multiple,easy,Entertainment: Television,In Game of Thrones, what is Littlefinger&#039;s real name?,Petyr Baelish,Podrick Payne,Lancel Lannister,Torrhen Karstark
+boolean,medium,Science &amp; Nature,Sugar contains fat.,False,True

@@ -1,0 +1,176 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "In Night In The Woods, where does Gregg work?",
+    "correct_answer": "Snack Falcon",
+    "incorrect_answers": [
+      "Ol&#039; Pickaxe",
+      "Video Outpost &quot;Too&quot;",
+      "Food Donkey"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "The characters of &quot;Log Horizon&quot; are trapped in what game?",
+    "correct_answer": "Elder Tale",
+    "incorrect_answers": [
+      "Sword Art Online",
+      "Tower Unite",
+      "Yggdrasil"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "What is the capital of Scotland?",
+    "correct_answer": "Edinburgh",
+    "incorrect_answers": [
+      "Glasgow",
+      "Dundee",
+      "London"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Solid Snake is actually a clone from the DNA of Big Boss in the Metal Gear Solid series&#039; history.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "What is the Capital of the United States?",
+    "correct_answer": "Washington, D.C.",
+    "incorrect_answers": [
+      "Los Angelas, CA",
+      "New York City, NY",
+      "Houston, TX"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "What did the first vending machines in the early 1880&#039;s dispense?",
+    "correct_answer": "Post cards",
+    "incorrect_answers": [
+      "Alcohol",
+      "Cigarettes",
+      "Sodas "
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "Which of these actors/actresses is NOT a part of the cast for the 2016 movie &quot;Suicide Squad&quot;?",
+    "correct_answer": "Scarlett Johansson",
+    "incorrect_answers": [
+      "Jared Leto",
+      "Will Smith",
+      "Margot Robbie"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "The anime &quot;Lucky Star&quot; follows the story of one girl who is unaware she is God.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Which computer language would you associate Django framework with?",
+    "correct_answer": "Python",
+    "incorrect_answers": [
+      "C#",
+      "C++",
+      "Java"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Film",
+    "question": "In Finding Nemo, what was the name of Nemo&#039;s mom?",
+    "correct_answer": "Coral",
+    "incorrect_answers": [
+      "Sandy",
+      "Pearl",
+      "Shelly"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Cartoon &amp; Animations",
+    "question": "Which of these characters from &quot;SpongeBob SquarePants&quot; is not a squid?",
+    "correct_answer": "Gary",
+    "incorrect_answers": [
+      "Orvillie",
+      "Squidward",
+      "Squidette"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "Ottoman Empire was created in 1299.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "What was Genghis Khan&#039;s real name?",
+    "correct_answer": "Tem&uuml;jin",
+    "incorrect_answers": [
+      "M&ouml;ngke",
+      "&Ouml;gedei",
+      "Tem&uuml;r"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science &amp; Nature",
+    "question": "Along with Oxygen, which element is primarily responsible for the sky appearing blue?",
+    "correct_answer": "Nitrogen",
+    "incorrect_answers": [
+      "Helium",
+      "Carbon",
+      "Hydrogen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Terry Gilliam was an animator that worked with which British comedy group?",
+    "correct_answer": "Monty Python",
+    "incorrect_answers": [
+      "The Goodies&lrm;",
+      "The League of Gentlemen&lrm;",
+      "The Penny Dreadfuls"
+    ]
+  }
+]

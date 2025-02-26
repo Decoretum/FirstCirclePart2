@@ -1,0 +1,16 @@
+type,difficulty,category,question,correct_answer,incorrect_answers
+multiple,easy,Entertainment: Video Games,In Night In The Woods, where does Gregg work?,Snack Falcon,Ol&#039; Pickaxe,Video Outpost &quot;Too&quot;,Food Donkey
+multiple,easy,Entertainment: Japanese Anime &amp; Manga,The characters of &quot;Log Horizon&quot; are trapped in what game?,Elder Tale,Sword Art Online,Tower Unite,Yggdrasil
+multiple,easy,Geography,What is the capital of Scotland?,Edinburgh,Glasgow,Dundee,London
+boolean,easy,Entertainment: Video Games,Solid Snake is actually a clone from the DNA of Big Boss in the Metal Gear Solid series&#039; history.,True,False
+multiple,easy,Geography,What is the Capital of the United States?,Washington, D.C.,Los Angelas, CA,New York City, NY,Houston, TX
+multiple,hard,History,What did the first vending machines in the early 1880&#039;s dispense?,Post cards,Alcohol,Cigarettes,Sodas 
+multiple,easy,Entertainment: Film,Which of these actors/actresses is NOT a part of the cast for the 2016 movie &quot;Suicide Squad&quot;?,Scarlett Johansson,Jared Leto,Will Smith,Margot Robbie
+boolean,easy,Entertainment: Japanese Anime &amp; Manga,The anime &quot;Lucky Star&quot; follows the story of one girl who is unaware she is God.,False,True
+multiple,easy,Science: Computers,Which computer language would you associate Django framework with?,Python,C#,C++,Java
+multiple,medium,Entertainment: Film,In Finding Nemo, what was the name of Nemo&#039;s mom?,Coral,Sandy,Pearl,Shelly
+multiple,easy,Entertainment: Cartoon &amp; Animations,Which of these characters from &quot;SpongeBob SquarePants&quot; is not a squid?,Gary,Orvillie,Squidward,Squidette
+boolean,medium,History,Ottoman Empire was created in 1299.,True,False
+multiple,medium,History,What was Genghis Khan&#039;s real name?,Tem&uuml;jin,M&ouml;ngke,&Ouml;gedei,Tem&uuml;r
+multiple,medium,Science &amp; Nature,Along with Oxygen, which element is primarily responsible for the sky appearing blue?,Nitrogen,Helium,Carbon,Hydrogen
+multiple,easy,General Knowledge,Terry Gilliam was an animator that worked with which British comedy group?,Monty Python,The Goodies&lrm;,The League of Gentlemen&lrm;,The Penny Dreadfuls
