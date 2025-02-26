@@ -90,8 +90,6 @@ function App() {
   const [data, setData] = useState([]);
   const [success, setSuccess] = useState(false);
   const [error, setError] = useState(false);
-  const columns = ['Type', 'Difficulty', 'Category', 'Question',
-  'Correct Answer', 'Incorrect Answers'];
   useEffect(() => {
     const delayData = async () => {
       for (let i = 0; i < 3; i++)
